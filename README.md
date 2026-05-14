@@ -99,6 +99,20 @@ I enjoy working on software projects that sit at the intersection of mathematics
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/picklesauce/picklesauce/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/picklesauce/picklesauce/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/picklesauce/picklesauce/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ## 📊 Stats
 
 <div align="center">
